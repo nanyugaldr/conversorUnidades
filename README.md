@@ -41,9 +41,9 @@ python conversor.py
 4. Use el botón "Limpiar" para reiniciar los campos
 
 ### 📸 Ejemplos de Uso
-###$ 1. Conversión Exitosa
+#### 1. Conversión Exitosa
 ![Conversión Regular](./img/caso_válido.png)
-*En esta imagen se muestra una conversión exitosa de 100 USD a CRC*
+*En esta imagen se muestra una conversión exitosa de 10 USD a CRC*
 
 #### 2. Manejo de Error
 ![Error de Entrada](./img/caso_inválido.png)
