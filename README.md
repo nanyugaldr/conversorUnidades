@@ -42,7 +42,7 @@ python conversor.py
 
 ### 📸 Ejemplos de Uso
 #### 1. Conversión Exitosa
-![Conversión Regular](./img/caso_válido.png)
+![Conversión Regular](caso_válido.png)
 
 *En esta imagen se muestra una conversión exitosa de 10 USD a CRC*
 
