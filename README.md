@@ -49,7 +49,7 @@ python conversor.py
 #### 2. Manejo de Error
 ![Error de Entrada](caso_inválido.png)
 
-*Ejemplo de mensaje de error al ingresar un valor inválido*
+*Ejemplo de mensaje de error al ingresar un valor inválido (vacío o no numérico)*
 
 #### 3. Confirmación de Salida
 ![Ventana de Confirmación](confirmación_de_salida.png)
