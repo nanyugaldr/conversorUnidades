@@ -43,15 +43,18 @@ python conversor.py
 ### 📸 Ejemplos de Uso
 #### 1. Conversión Exitosa
 ![Conversión Regular](./img/caso_válido.png)
+
 *En esta imagen se muestra una conversión exitosa de 10 USD a CRC*
 
 #### 2. Manejo de Error
 ![Error de Entrada](./img/caso_inválido.png)
+
 *Ejemplo de mensaje de error al ingresar un valor inválido*
 
 #### 3. Confirmación de Salida
 ![Ventana de Confirmación](./img/confirmación_de_salida.png)
+
 *Ventana emergente de confirmación al intentar cerrar la aplicación*
 
-4. Ventana emergente de confirmación al intentar cerrar la aplicación
+
 
