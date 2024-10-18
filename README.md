@@ -20,7 +20,7 @@ Este proyecto consiste en una aplicación gráfica desarrollada en Python utiliz
 Clone este repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/conversorUnidades.git
+git clone https://github.com/nanyugaldr/conversorUnidades
 ```
 
 Navegue al directorio del proyecto:
