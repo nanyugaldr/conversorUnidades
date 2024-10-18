@@ -56,5 +56,8 @@ python conversor.py
 
 *Ventana emergente de confirmación al intentar cerrar la aplicación*
 
+## 👋 Mensaje Final
+¡Gracias por utilizar este conversor!
+
 
 
